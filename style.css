@@ -1,0 +1,19 @@
+table{
+    background-color: rgb(190, 16, 16);
+    color: rgb(228, 9, 9);
+    border: #fff;
+    text-align: center;
+    
+}
+
+td{
+    padding: 20px;
+    border: 1px solid rgb(13, 207, 214);
+    border-radius: 20%;
+}
+td:hover{
+    color: rgb(219, 224, 224);
+    background-color: black;
+    border-radius: 50%;
+    transition: 0.3s;
+}
